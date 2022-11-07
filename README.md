@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Thuwth
 - 👀 I’m interested in NLP 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning information extraction, contrastive learning, pretrained language models and so on
+- 💞️ I’m looking to collaborate on contrastive learning for multi-modal
 - 📫 How to reach me ...
 
 <!---
